@@ -1,0 +1,4 @@
+Java : a beginner's guide
+Author - Schildt, Herbert
+
+Fully updated for Java Platform, Standard Edition 9 (Java SE 9), Java: A Beginner's Guide, Seventh Edition, gets you started programming in Java right away. Bestselling programming author Herb Schildt begins with the basics, such as how to create, compile, and run a Java program. He then moves on to the keywords, syntax, and constructs that form the core of the Java language. The book also covers some of Java's more advanced features, including multithreaded programming, generics, lambda expressions, Swing, and JavaFX. This practical Oracle Press guide features details on Java SE 9's innovative new module system, and, as an added bonus, it includes an introduction to JShell, Java's new interactive programming tool

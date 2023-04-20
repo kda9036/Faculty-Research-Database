@@ -1,0 +1,38 @@
+/* Project: Faculty Research Database
+ * Group 4:
+ * @author Appleton, Kelly
+ * @author Pegoli, Christopher
+ * @author Zhao, Wentao
+ * @version 11/28/21
+ */
+ 
+.root {
+    -fx-background-color: aliceblue;
+  }
+  
+  .label {
+     -fx-text-fill: darkblue; 
+     -fx-font: 16 sans-serif;
+     -fx-font-weight: bold;
+  }
+  
+  .button {
+     -fx-background-color: #1c81ce; 
+     -fx-text-fill: white; 
+     -fx-font: 16 sans-serif;
+     -fx-font-weight: bold;
+  }
+  
+  .button:hover {
+     -fx-text-fill: darkblue; 
+     -fx-background-color: #68bff4;
+  }
+  
+  .text-area .content{
+     -fx-background-color: #f4f8fb;
+  }
+
+  .text-area {
+     -fx-font-family: "Courier New";
+     -fx-font-size: 14px;
+  }
