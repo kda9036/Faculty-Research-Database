@@ -14,4 +14,4 @@ Course: Database Connectivity & Access
 
 # Technologies / Software
 
-Java, JavaFX, MySQL
+Java, JavaFX, MySQL, CSS
