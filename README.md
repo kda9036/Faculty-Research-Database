@@ -6,6 +6,8 @@ Course: Database Connectivity & Access
 
 Files copied from private repo
 
+See ProjectDemo > view raw for video demo of project
+
 # Project Description
 
 - Designed and built, as a team, a Java application with a MySQL database connection to allow students and faculty members to search the database to find opportunities for collaboration
